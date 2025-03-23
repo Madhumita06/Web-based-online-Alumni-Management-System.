@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a6354875-e0f6-4583-a0e5-7c3ec2afd2f6)Web Based Online Alumni Management System helps institutes strategically build and
+Web Based Online Alumni Management System helps institutes strategically build and
 maintain their alumni network, by facilitating engagement, community-building, networking,
 communications and many other methods. And thus, a secondary array of positive marketing
 takes place. With Alumni Management System, the Alumni data can be centralized and
